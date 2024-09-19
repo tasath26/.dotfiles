@@ -14,7 +14,6 @@ Config for my NixOS/Hyprland setup.
 # Installation
 ```
 git clone https://github.com/tasath26/.dotfiles ~
-cp -r ~/.dotfiles/* ~/.config
+cp -r ~/.dotfiles/.config/* ~/.config
 rm -rf ~/.dotfiles
-
 ```
