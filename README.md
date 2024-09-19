@@ -8,7 +8,7 @@ Config for my NixOS/Hyprland setup.
 ![Example Image](Screenshots/screen1.png)
 ![Example Image](Screenshots/screen2.png)
 ![Example Image](Screenshots/screen3.png)
-![Example Image](Screenshots/screen3.png)
+![Example Image](Screenshots/screen4.png)
 
 
 # Installation
